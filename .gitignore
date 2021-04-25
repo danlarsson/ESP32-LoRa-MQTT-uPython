@@ -1,4 +1,5 @@
 config.py
+webrepl_cfg.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
